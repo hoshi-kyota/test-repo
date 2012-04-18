@@ -1,6 +1,6 @@
 re 'sinatra'
 
 get '/' do
-  "paasio hello\n" 
+  "hello world\n" 
 end
 
